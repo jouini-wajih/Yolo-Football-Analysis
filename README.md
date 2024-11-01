@@ -40,7 +40,8 @@ Separating the ball detection model from player detection has significantly incr
 ### Pitch Detection
 Accurate pitch detection sets the foundation for player and ball positioning. By leveraging pitch-specific parameters and a dedicated model, we ensure consistent pitch detection, even under challenging lighting and background conditions.
 
-![Pitch Detection Image](path/to/pitch_detection_image.png)
+![Pitch Detection Image](Yolo-Football-Analysis/Output/Capture.PNG)
+![Pitch Detection Image](Yolo-Football-Analysis/Output/image (3).png)
 
 ---
 
@@ -49,8 +50,9 @@ UMAP (Uniform Manifold Approximation and Projection) enhances team classificatio
 
 - **Player Cropping**: Cropping background elements sharpens focus on each player’s relevant features, improving classification accuracy.
 - **Team Clustering Video**: The video demonstrates successful team classification, with players correctly grouped by team and position.
-
+![Team Classification PNG](Yolo-Football-Analysis/Output/Ca8pture.PNG)
 ![Team Classification GIF](Yolo-Football-Analysis/Output/465126396_8719396608119833_5638483175966772659_n.gif)
+
 
 
 ## Future Work
