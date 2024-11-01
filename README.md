@@ -23,7 +23,7 @@ To enhance robustness in diverse conditions (sunspots, zooming, non-standard bac
 - **Brightness and Color Adjustments**: Simulated lighting effects replicate challenging real-world conditions, boosting model accuracy under different lighting scenarios.
 - **Mosaic Augmentation**: Mosaic augmentation enhances the model's understanding of complex contexts by combining multiple images, helping to overcome memory limitations while keeping broader context awareness.
 
-![Player Detection Image](path/to/player_detection_image.png)
+![Player Detection Image](Yolo-Football-Analysis/Output/image (1).png)
 
 ---
 
@@ -33,7 +33,7 @@ Separating the ball detection model from player detection has significantly incr
 - **Dedicated Ball Model**: A specialized ball model, trained on ball-specific data, improves accuracy, especially when the ball overlaps with players.
 - **Advanced Augmentations**: Custom scaling and rotation augmentations help the model adapt to varying ball positions and orientations.
 
-![Ball Detection Image](path/to/ball_detection_image.png)
+![Ball Detection Image](Yolo-Football-Analysis/Output/Capturde.PNG)
 
 ---
 
