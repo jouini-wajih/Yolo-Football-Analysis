@@ -50,9 +50,8 @@ UMAP (Uniform Manifold Approximation and Projection) enhances team classificatio
 - **Player Cropping**: Cropping background elements sharpens focus on each player’s relevant features, improving classification accuracy.
 - **Team Clustering Video**: The video demonstrates successful team classification, with players correctly grouped by team and position.
 
-[![Team Classification Video](Yolo-Football-Analysis/Output/465126396_8719396608119833_5638483175966772659_n.mp4)](Yolo-Football-Analysis/Output/465126396_8719396608119833_5638483175966772659_n.mp4)
+![Team Classification Video](Yolo-Football-Analysis/Output/team_classification.gif)
 
----
 
 ## Future Work
 Future improvements include real-time analysis capabilities, expanded classification for additional game events (e.g., tackles, fouls), and the integration of more visual insights for tactical analysis.
