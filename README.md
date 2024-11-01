@@ -23,7 +23,7 @@ To enhance robustness in diverse conditions (sunspots, zooming, non-standard bac
 - **Brightness and Color Adjustments**: Simulated lighting effects replicate challenging real-world conditions, boosting model accuracy under different lighting scenarios.
 - **Mosaic Augmentation**: Mosaic augmentation enhances the model's understanding of complex contexts by combining multiple images, helping to overcome memory limitations while keeping broader context awareness.
 
-![Player Detection Image](Yolo-Football-Analysis/Output/image (1).png)
+![Player Detection Image](Yolo-Football-Analysis/Output/image(1).png)
 
 ---
 
