@@ -41,7 +41,7 @@ Separating the ball detection model from player detection has significantly incr
 Accurate pitch detection sets the foundation for player and ball positioning. By leveraging pitch-specific parameters and a dedicated model, we ensure consistent pitch detection, even under challenging lighting and background conditions.
 
 ![Pitch Detection Image](Yolo-Football-Analysis/Output/Capture.PNG)
-![Pitch Detection Image](Yolo-Football-Analysis/Output/image (3).png)
+![Pitch Detection Image](Yolo-Football-Analysis/Output/image(3).png)
 
 ---
 
